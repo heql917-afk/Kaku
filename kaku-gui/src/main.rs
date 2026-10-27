@@ -106,6 +106,7 @@ mod local_hostname;
 mod macos;
 mod overlay;
 mod quad;
+mod quick_commands;
 #[cfg(feature = "remote")]
 mod remote_tabs;
 mod renderstate;
